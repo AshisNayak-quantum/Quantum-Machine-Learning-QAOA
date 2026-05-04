@@ -5,4 +5,7 @@ This project is done under Reading Project for sem 6, a two credit course at UM-
 ## Report
 The report for this project titled: Quantum Approximate Optimization Algorithm and The Ising Model 
 can be found here:
-[Report] /report/readingproject.pdf
+📄 [Read Full Report] (\report\readingproject.pdf)
+
+## The Program
+The code written for this project can be accessed here:
