@@ -6,7 +6,7 @@ This project is done under Reading Project for sem 6 (2026, Jan to May), a two c
 The detailed report for this project titled: Quantum Approximate Optimization Algorithm and The Ising Model 
 can be found here:
 
-📄 [Read Full Report](report/Ashis%2Nayak_reading%2project.pdf)
+📄 [Read Full Report](report/Ashis%20Nayak_reading%20project.pdf)
 
 ## The Program
 The code written for this project can be accessed here:
